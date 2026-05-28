@@ -52,20 +52,24 @@
 
 
 👤 Nome: Pedro Alves
+
 📍 Bahia, Brasil 🇧🇷
+
 🎓 Técnico em Informática
+
 💻 Desenvolvedor Front-End
+
 🎌 Apaixonado por Anime & Tecnologia
+
 🚀 Foco: Web & Mobile Development
 
-
-* 🎓 Estudante do **Instituto Federal Baiano — Campus Santa Inês**
-* 💻 Apaixonado por interfaces modernas e design criativo
-* 🌱 Estudando **JavaScript**, **React**, **React Native**, **C++** e **VisualG**
-* ⚡ Criando projetos modernos e experiências visuais incríveis
-* 🎨 Interessado em UI/UX e desenvolvimento responsivo
-* 🎌 Fã de anime, cultura geek e tecnologia futurista
-* 🚀 Sempre buscando evoluir como desenvolvedor
+🎓 Estudante do **Instituto Federal Baiano — Campus Santa Inês**
+💻 Apaixonado por interfaces modernas e design criativo
+🌱 Estudando **JavaScript**, **React**, **React Native**, **C++** e **VisualG**
+⚡ Criando projetos modernos e experiências visuais incríveis
+🎨 Interessado em UI/UX e desenvolvimento responsivo
+🎌 Fã de anime, cultura geek e tecnologia futurista
+🚀 Sempre buscando evoluir como desenvolvedor
 
 <br>
 
