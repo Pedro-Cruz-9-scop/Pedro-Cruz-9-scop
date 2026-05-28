@@ -1,4 +1,3 @@
-
 <!-- ===================================================== -->
 <!--                  HEADER ANIME                         -->
 <!-- ===================================================== -->
@@ -51,14 +50,14 @@
 
 # ⚡ Sobre Mim
 
-```yaml
+
 👤 Nome: Pedro Alves
 📍 Bahia, Brasil 🇧🇷
 🎓 Técnico em Informática
 💻 Desenvolvedor Front-End
 🎌 Apaixonado por Anime & Tecnologia
 🚀 Foco: Web & Mobile Development
-````
+
 
 * 🎓 Estudante do **Instituto Federal Baiano — Campus Santa Inês**
 * 💻 Apaixonado por interfaces modernas e design criativo
@@ -70,7 +69,7 @@
 
 <br>
 
----
+
 
 # 🌌 Tecnologias & Ferramentas
 
@@ -92,13 +91,6 @@
 
 # 📊 Estatísticas do GitHub
 
-<div align="center">
-
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
-
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=FFFFFF"/>
-
-</div>
 
 <br>
 
@@ -108,7 +100,7 @@
 
 </div>
 
----
+
 
 # 🔥 GitHub Streak
 
