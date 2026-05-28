@@ -1,136 +1,254 @@
+
+<!-- ===================================================== -->
+<!--                  HEADER ANIME                         -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,20:0F172A,40:1E3A8A,60:2563EB,80:38BDF8,100:7DD3FC&text=Pedro%20Alves&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Front-End%20%E2%9C%A8%20Anime%20Lover%20%E2%9C%A8%20Tech%20Enthusiast&descAlignY=58&descSize=22"/>
+
+</div>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Olá+👋,+Eu+sou+Pedro+Alves;Desenvolvedor+Front-End;Estudante+de+Informática;Apaixonado+por+Tecnologia;Desenvolvedor+Mobile+em+Aprendizado" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=💻+Pedro+Alves;⚡+Desenvolvedor+Front-End;🎌+Anime+%2B+Tecnologia+%2B+Criatividade;🚀+React+%7C+JavaScript+%7C+C%2B%2B;🔥+Transformando+Ideias+em+Código" />
+
 </h1>
 
-<h3 align="center">
-💻 Estudante de Técnico em Informática apaixonado por tecnologia, desenvolvimento web e inovação 🇧🇷
-</h3>
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+
+</div>
+
+<br>
+
+<!-- ===================================================== -->
+<!--                BADGES ESTILOSAS                       -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Front--End-38BDF8?style=for-the-badge&logo=frontendmentor&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Anime%20Lover-2563EB?style=for-the-badge&logo=crunchyroll&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=38BDF8"/>
+
+<img src="https://img.shields.io/badge/JavaScript-38BDF8?style=for-the-badge&logo=javascript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C%2B%2B-2563EB?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+</div>
 
 ---
 
-<div align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+<!-- ===================================================== -->
+<!--                    GIF ANIME                          -->
+<!-- ===================================================== -->
 
-<img align="right" alt="Programando" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="360" src="https://media.giphy.com/media/3ohzdQ1IynzclJldUQ/giphy.gif"/>
 
-# 🚀 Sobre Mim
+# ⚡ Sobre Mim
 
 ```yaml
-Nome: Pedro Alves
-Área: Desenvolvimento Front-End e Mobile
-Localização: Bahia, Brasil 🇧🇷
-Formação: Técnico em Informática
-Aprendendo: JavaScript, React, React Native, C++ e VisualG
+👤 Nome: Pedro Alves
+📍 Bahia, Brasil 🇧🇷
+🎓 Técnico em Informática
+💻 Desenvolvedor Front-End
+🎌 Apaixonado por Anime & Tecnologia
+🚀 Foco: Web & Mobile Development
 ````
 
 * 🎓 Estudante do **Instituto Federal Baiano — Campus Santa Inês**
-* 🌱 Atualmente aprendendo **JavaScript**, **React**, **React Native**, **C++** e desenvolvimento mobile
-* 💡 Apaixonado por **interfaces modernas**, **design UI/UX** e tecnologia
-* 🚀 Desenvolvendo projetos voltados para inovação e soluções digitais
-* 🤝 Disponível para colaborar em projetos acadêmicos e tecnológicos
-* ⚡ Sempre buscando evoluir como desenvolvedor
-* 🎯 Objetivo: me tornar um desenvolvedor de software profissional
+* 💻 Apaixonado por interfaces modernas e design criativo
+* 🌱 Estudando **JavaScript**, **React**, **React Native**, **C++** e **VisualG**
+* ⚡ Criando projetos modernos e experiências visuais incríveis
+* 🎨 Interessado em UI/UX e desenvolvimento responsivo
+* 🎌 Fã de anime, cultura geek e tecnologia futurista
+* 🚀 Sempre buscando evoluir como desenvolvedor
 
 <br>
 
-# 🌐 Redes e Contato
+---
+
+# 🌌 Tecnologias & Ferramentas
 
 <div align="center">
 
-<a href="https://instagram.com/pedr_alvx" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,c,git,github,vscode,figma" />
 
-<a href="mailto:Pedroalves232324@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br><br>
 
-<a href="https://github.com/SEUUSUARIO" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/VisualG-38BDF8?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/UI%2FUX-2563EB?style=for-the-badge&logo=figma&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Mobile-0F172A?style=for-the-badge&logo=react&logoColor=38BDF8"/>
 
 </div>
 
 ---
 
-# 💻 Tecnologias e Ferramentas
+# 📊 Estatísticas do GitHub
 
 <div align="center">
 
-### 🌐 Desenvolvimento Web
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=FFFFFF"/>
 
-<br><br>
-
-### ⚙️ Linguagens de Programação
-
-<img src="https://skillicons.dev/icons?i=cpp,c" />
+</div>
 
 <br>
 
-<img src="https://img.shields.io/badge/VisualG-009DFF?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+<div align="center">
 
-<br><br>
-
-### 🛠️ Ferramentas
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEUUSUARIO&theme=tokyonight"/>
 
 </div>
 
 ---
 
-# 🔥 Sequência de Contribuições
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF"/>
+<img width="96%" src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
 
 </div>
 
----
+
+# 🎌 Universo Anime
+
+
+# 🎌 Universo Anime
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+
+<h3>⚔️ Attack on Titan</h3>
+
+<img width="220" src="https://i.pinimg.com/originals/57/3b/65/573b65e2d0c5d7a2b52d69f96455ce49.gif"/>
+
+</td>
+
+<td align="center">
+
+<h3>🍥 Naruto</h3>
+
+<img width="220" src="https://media.tenor.com/2uyENRmiUt0AAAAC/naruto.gif"/>
+
+</td>
+
+<td align="center">
+
+<h3>🔥 Demon Slayer</h3>
+
+<img width="220" src="https://media.tenor.com/JkDkKz1JrKsAAAAC/demon-slayer.gif"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<h3>⚡ Jujutsu Kaisen</h3>
+
+<img width="220" src="https://media.tenor.com/zKB1vO1Z1QMAAAAC/jujutsu-kaisen-gojo.gif"/>
+
+</td>
+
+<td align="center">
+
+<h3>👑 One Piece</h3>
+
+<img width="220" src="https://media.tenor.com/qhR8W8lK2kAAAAAC/one-piece-luffy.gif"/>
+
+</td>
+
+<td align="center">
+
+<h3>🗡️ Solo Leveling</h3>
+
+<img width="220" src="https://media.tenor.com/4z4bG78b4lAAAAAC/solo-leveling-sung-jinwoo.gif"/>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+
 
 # 🚀 Projetos em Destaque
 
 <div align="center">
 
-| Projeto               | Descrição                                                   |
-| --------------------- | ----------------------------------------------------------- |
-| 🌱 AgroLink           | Plataforma tecnológica voltada para inovação no agronegócio |
-| 📰 JIFB-NEWS          | Projeto de jornalismo e comunicação estudantil              |
-| 📱 Aplicativos Mobile | Protótipos utilizando React Native                          |
-| 💻 Sites Responsivos  | Sites modernos com HTML, CSS e JavaScript                   |
-| ⚙️ Projetos de Lógica | Algoritmos e lógica com C++, C e VisualG                    |
+| 🚀 Projeto            | 💻 Descrição                                   |
+| --------------------- | ---------------------------------------------- |
+| 🌱 AgroLink           | Plataforma tecnológica para inovação agrícola  |
+| 📰 JIFB-NEWS          | Projeto de comunicação e jornalismo estudantil |
+| 📱 Apps Mobile        | Aplicativos utilizando React Native            |
+| 💻 Sites Responsivos  | Interfaces modernas e responsivas              |
+| ⚙️ Projetos de Lógica | Algoritmos em C, C++ e VisualG                 |
 
 </div>
 
 ---
 
-# 🎯 Objetivos Atuais
+# 🌐 Redes & Contato
+
+<div align="center">
+
+<a href="https://instagram.com/pedr_alvx" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-2563EB?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:Pedroalves232324@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-020617?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
+</a>
+
+<a href="https://github.com/SEUUSUARIO" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🎯 Objetivos
 
 ```txt
-📚 Melhorar minhas habilidades em React e Mobile
-🚀 Criar aplicações Full Stack completas
-🌎 Contribuir em projetos Open Source
-💼 Adquirir experiência profissional em tecnologia
-🧠 Aprofundar conhecimentos em engenharia de software
+🚀 Evoluir como Desenvolvedor Full Stack
+💙 Criar interfaces modernas e impactantes
+⚡ Aprender novas tecnologias diariamente
+🌎 Participar de projetos Open Source
+🎌 Unir criatividade geek com programação
 ```
 
+---
 
-# 🧠 Atualmente Estudando
+<!-- ===================================================== -->
 
-<div align="center">
+<!--                     FOOTER                            -->
 
-<img src="https://skillicons.dev/icons?i=react,js,cpp" />
-
-</div>
-
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00BFFF&height=120&section=footer"/>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:7DD3FC,25:38BDF8,50:2563EB,75:0F172A,100:020617&section=footer"/>
 
 </div>
-
