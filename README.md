@@ -45,9 +45,7 @@
 <!-- ===================================================== -->
 <!--                    GIF ANIME                          -->
 <!-- ===================================================== -->
-
-<img align="right" width="360" src="https://media.giphy.com/media/3ohzdQ1IynzclJldUQ/giphy.gif"/>
-
+<div align="center"> <img src="https://media.tenor.com/6ecb1fd0bXUHCvyD1-wAAAAC/anime.gif" width="800"/> </div>
 # ⚡ Sobre Mim
 
 
@@ -61,19 +59,11 @@
 
 -🎌 Apaixonado por Anime & Tecnologia
 
--🚀 Foco: Web & Mobile Development
-
 -🎓 Estudante do **Instituto Federal Baiano — Campus Santa Inês**
 
--💻 Apaixonado por interfaces modernas e design criativo
-
--🌱 Estudando **JavaScript**, **React**, **React Native**, **C++** e **VisualG**
+-💻  Estudando **JavaScript**, **React**, **React Native**, **C++** e **VisualG**
 
 -⚡ Criando projetos modernos e experiências visuais incríveis
-
--🎨 Interessado em UI/UX e desenvolvimento responsivo
-
--🎌 Fã de anime, cultura geek e tecnologia futurista
 
 -🚀 Sempre buscando evoluir como desenvolvedor
 
@@ -121,71 +111,97 @@
 </div>
 
 
-# 🎌 Universo Anime
 
-
-# 🎌 Universo Anime
 
 <div align="center">
 
-<table>
-<tr>
+# 🎌 Universo Anime
 
-<td align="center">
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
-<h3>⚔️ Attack on Titan</h3>
+<br><br>
 
-<img width="220" src="https://i.pinimg.com/originals/57/3b/65/573b65e2d0c5d7a2b52d69f96455ce49.gif"/>
-
-</td>
-
-<td align="center">
-
-<h3>🍥 Naruto</h3>
-
-<img width="220" src="https://media.tenor.com/2uyENRmiUt0AAAAC/naruto.gif"/>
-
-</td>
-
-<td align="center">
-
-<h3>🔥 Demon Slayer</h3>
-
-<img width="220" src="https://media.tenor.com/JkDkKz1JrKsAAAAC/demon-slayer.gif"/>
-
-</td>
-
-</tr>
+<table width="100%">
 
 <tr>
 
-<td align="center">
+<td align="center" width="33%">
 
-<h3>⚡ Jujutsu Kaisen</h3>
+<img width="300" height="170" src="https://wallpapercave.com/wp/wp9427587.jpg"/>
 
-<img width="220" src="https://media.tenor.com/zKB1vO1Z1QMAAAAC/jujutsu-kaisen-gojo.gif"/>
+<br><br>
 
-</td>
-
-<td align="center">
-
-<h3>👑 One Piece</h3>
-
-<img width="220" src="https://media.tenor.com/qhR8W8lK2kAAAAAC/one-piece-luffy.gif"/>
+<img src="https://img.shields.io/badge/⚔️%20Attack%20on%20Titan-0F172A?style=for-the-badge&logoColor=white"/>
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
-<h3>🗡️ Solo Leveling</h3>
+<img width="300" height="170" src="https://wallpapercave.com/wp/wp8847873.jpg"/>
 
-<img width="220" src="https://media.tenor.com/4z4bG78b4lAAAAAC/solo-leveling-sung-jinwoo.gif"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/🍥%20Naruto-2563EB?style=for-the-badge&logoColor=white"/>
+
+</td>
+
+<td align="center" width="33%">
+
+<img width="300" height="170" src="https://wallpapercave.com/wp/wp7449513.jpg"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🔥%20Demon%20Slayer-38BDF8?style=for-the-badge&logoColor=white"/>
 
 </td>
 
 </tr>
 
 </table>
+
+<br>
+
+<table width="100%">
+
+<tr>
+
+<td align="center" width="33%">
+
+<img width="300" height="170" src="https://wallpapercave.com/wp/wp7488372.jpg"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/⚡%20Jujutsu%20Kaisen-1E3A8A?style=for-the-badge&logoColor=white"/>
+
+</td>
+
+<td align="center" width="33%">
+
+<img width="300" height="170" src="https://wallpapercave.com/wp/wp5610016.jpg"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/👑%20One%20Piece-2563EB?style=for-the-badge&logoColor=white"/>
+
+</td>
+
+<td align="center" width="33%">
+
+<img width="300" height="170" src="https://wallpapercave.com/wp/wp13375312.jpg"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🗡️%20Solo%20Leveling-0F172A?style=for-the-badge&logoColor=white"/>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 </div>
 
