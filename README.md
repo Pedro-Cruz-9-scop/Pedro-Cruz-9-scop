@@ -1,3 +1,4 @@
+
 <!-- ===================================================== -->
 <!--                  HEADER ANIME                         -->
 <!-- ===================================================== -->
@@ -45,9 +46,7 @@
 <!-- ===================================================== -->
 <!--                    GIF ANIME                          -->
 <!-- ===================================================== -->
-<div align="center"> <img src="https://media.tenor.com/6ecb1fd0bXUHCvyD1-wAAAAC/anime.gif" width="800"/> </div>
-# ⚡ Sobre Mim
-
+**⚡ Sobre Mim**
 
 -👤 Nome: Pedro Alves
 
@@ -140,66 +139,6 @@
 <img width="300" height="170" src="https://wallpapercave.com/wp/wp8847873.jpg"/>
 
 <br><br>
-
-<img src="https://img.shields.io/badge/🍥%20Naruto-2563EB?style=for-the-badge&logoColor=white"/>
-
-</td>
-
-<td align="center" width="33%">
-
-<img width="300" height="170" src="https://wallpapercave.com/wp/wp7449513.jpg"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/🔥%20Demon%20Slayer-38BDF8?style=for-the-badge&logoColor=white"/>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<table width="100%">
-
-<tr>
-
-<td align="center" width="33%">
-
-<img width="300" height="170" src="https://wallpapercave.com/wp/wp7488372.jpg"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/⚡%20Jujutsu%20Kaisen-1E3A8A?style=for-the-badge&logoColor=white"/>
-
-</td>
-
-<td align="center" width="33%">
-
-<img width="300" height="170" src="https://wallpapercave.com/wp/wp5610016.jpg"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/👑%20One%20Piece-2563EB?style=for-the-badge&logoColor=white"/>
-
-</td>
-
-<td align="center" width="33%">
-
-<img width="300" height="170" src="https://wallpapercave.com/wp/wp13375312.jpg"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/🗡️%20Solo%20Leveling-0F172A?style=for-the-badge&logoColor=white"/>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
