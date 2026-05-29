@@ -46,6 +46,8 @@
 <!-- ===================================================== -->
 <!--                    GIF ANIME                          -->
 <!-- ===================================================== -->
+<div align="right"> <img src="https://media.tenor.com/x8v1oNUOmg4AAAAC/anime.gif" width="500"/> </div>
+
 **⚡ Sobre Mim**
 
 -👤 Nome: Pedro Alves
